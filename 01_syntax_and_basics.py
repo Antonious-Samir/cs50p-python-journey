@@ -1,5 +1,5 @@
 # ==============================================================================
-# Author: Antonious
+# Author: Antonious Adel Samir
 # Track: AI & Data Science Diploma | CS50P Fundamentals
 # File: 01_syntax_and_basics.py
 # Description: Notes and code examples exploring string manipulation, 
