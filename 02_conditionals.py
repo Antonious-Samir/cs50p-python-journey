@@ -1,9 +1,9 @@
 # ==============================================================================
 # Author: Antonious Adel Samir
 # Track: AI & Data Science Diploma | CS50P Fundamentals
-# File: 02_conditions, comparisons, Some Boolean logic.py
-# Description: Notes and code examples exploring string manipulation, 
-#              type casting, formatting, basic functions, and control flow.
+# File: 02_conditionals.py
+# Description: Notes and code examples exploring conditionals, comparisons,
+#              Boolean logic, and control flow in Python.
 # License: MIT License - Open for educational and reference purposes.
 # ==============================================================================
 
