@@ -16,6 +16,6 @@ The goal is to maintain a structured, well-commented reference library covering 
 
 ```text
 .
-├── 01_syntax_and_basics.py   # Variables, string methods, input formatting, function scoping
-├── 02_conditions.py          # If/elif/else, comparisons, Boolean logic, even/odd, match
+├── 01_syntax_and_basics.py     # Variables, string methods, input formatting, function scoping
+├── 02_conditionals.py          # If/elif/else, comparisons, Boolean logic, even/odd, match
 └── README.md
